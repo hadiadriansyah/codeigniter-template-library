@@ -1,4 +1,4 @@
-**fork from https://github.com/jenssegers/codeigniter-template-library**
+**Forked from https://github.com/jenssegers/codeigniter-template-library**
 
 CodeIgniter Template Library
 ============================
